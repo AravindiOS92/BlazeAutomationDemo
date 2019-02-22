@@ -1,9 +1,9 @@
 # BlazeAutomationDemo
 Blaze Home Automation lets you indulge in luxury by simplifying your home
 
-![Screenshot](1.jpg)
-![Screenshot](2.jpg)
-![Screenshot](3.jpg)
+![1](1.jpg)
+![2](2.jpg)
+![3](3.jpg)
 
 ## Dependencies:
 1. XCODE 8.2+
